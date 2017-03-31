@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: Bienvenida
 ---
 **¡Bienvenidos a mi Blog chavalies!** :clap: :clap: :clap:
 
