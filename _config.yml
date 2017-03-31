@@ -5,10 +5,10 @@ url: "" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: My EasyPeasy Blog
+  title: GeekyPeasy
   avatar: avatar-careto.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Java Developer from Somewhere" # used by search engines
 
   # Header and footer text
   header_text:
