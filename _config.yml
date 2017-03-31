@@ -14,7 +14,7 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   			Powered by easyPeasy
+   			<p>Powered by easyPeasy</p>
 
   # Icons
   rss: false
