@@ -6,7 +6,7 @@ url: "https://graviis.github.io/" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Type Theme
-  avatar: avatar.png
+  avatar: avatar-careto.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
@@ -14,7 +14,7 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Powered by easyPeasy
+   			Powered by easyPeasy
 
   # Icons
   rss: false
@@ -34,7 +34,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam: "carltos"
   tumblr:
-  twitter: "twitter"
+  twitter: 
   wordpress:
   youtube:
 
