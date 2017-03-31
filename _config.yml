@@ -6,7 +6,7 @@ url: "" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: My EasyPeasy Blog
-  avatar: avatar-careto.png
+  avatar: avatar-careto.jpg
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
